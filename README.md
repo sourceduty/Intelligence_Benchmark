@@ -30,7 +30,7 @@ Intelligence metrics refer to various methods and tools used to measure differen
 
 > "*I will take an IQ test in the future and it probably won't be very high.*"
 
-> "*Doctors and engineers much smarter than myself need to tell me to shut up.*"
+> "*This is hard to say, but there are doctors and engineers much smarter than myself need to tell me to shut up.*"
 
 #
 ### Related Links
