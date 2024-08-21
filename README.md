@@ -34,7 +34,7 @@ Intelligence metrics refer to various methods and tools used to measure differen
 
 > "*I am the hulk of intelligence, empowered and overempowered.*"
 
-> "*Concentration, professional, experience and expertise of intelligence.*"
+> "*Concentration, profession, experience and expertise of intelligence.*"
 
 Alex acknowledges that his perception of his own intelligence might be inflated due to his interaction with AI. AI can provide instant access to information, solve complex problems, and assist with tasks that would otherwise require significant cognitive effort. This can create a false sense of one's own intellectual abilities, as the person may attribute the AI's capabilities to themselves.
 
