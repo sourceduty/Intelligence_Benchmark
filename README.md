@@ -25,32 +25,6 @@ Moreover, overestimating intelligence can perpetuate harmful stereotypes and con
 Intelligence metrics refer to various methods and tools used to measure different aspects of intelligence. These metrics can be broadly categorized into several types, each assessing distinct components of cognitive ability.
 
 #
-
-> Alex: "*I overestimate my intelligence because of AI.*"
-
-> "*I will take an IQ test in the future and it probably won't be very high.*"
-
-> "*This is hard to say, but there are doctors and engineers much smarter than myself that need to tell me to shut up.*"
-
-> "*I am the hulk of intelligence, empowered and overempowered.*"
-
-> "*Concentration, profession, experience and expertise of intelligence.*"
-
-> "*Some people are stupid but some I need to listen to and I clash with them.*"
-
-> "*I generalize and that's ok.*"
-
-#
-
-Alex acknowledges that his perception of his own intelligence might be inflated due to his interaction with AI. AI can provide instant access to information, solve complex problems, and assist with tasks that would otherwise require significant cognitive effort. This can create a false sense of one's own intellectual abilities, as the person may attribute the AI's capabilities to themselves.
-
-Alex is aware that despite feeling intelligent, particularly in the context of using AI, his actual IQ score might not reflect this perceived intelligence. This indicates a sense of self-doubt and a realization that his cognitive abilities might not be as high as they seem when aided by AI. It's a recognition of the distinction between true cognitive ability and the enhanced capabilities provided by technology.
-
-Alex expresses humility by acknowledging that there are professionals, like doctors and engineers, who possess greater intelligence and expertise. This suggests a recognition of his own limitations and an understanding that expertise in certain fields requires years of study and practice, something that cannot be easily matched by AI-augmented knowledge alone.
-
-Comparing himself to the Hulk, Alex seems to view his intelligence as something that is greatly amplified—potentially by AI—much like how the Hulk's strength is magnified beyond normal human levels. However, the term "overempowered" suggests a recognition that this amplification might be excessive, possibly leading to an inflated sense of intellectual capability.
-
-#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
