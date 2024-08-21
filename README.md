@@ -28,6 +28,8 @@ Intelligence metrics refer to various methods and tools used to measure differen
 
 > Alex: "*I overestimate my intelligence because of AI.*"
 
+> "*I will take an IQ test in the future and it probably won't be very high.*"
+
 #
 ### Related Links
 
