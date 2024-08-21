@@ -25,6 +25,10 @@ Moreover, overestimating intelligence can perpetuate harmful stereotypes and con
 Intelligence metrics refer to various methods and tools used to measure different aspects of intelligence. These metrics can be broadly categorized into several types, each assessing distinct components of cognitive ability.
 
 #
+
+> Alex: "*I overestimate my intelligence because of AI.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
