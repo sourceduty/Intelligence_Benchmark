@@ -32,6 +32,8 @@ Intelligence metrics refer to various methods and tools used to measure differen
 
 > "*This is hard to say, but there are doctors and engineers much smarter than myself that need to tell me to shut up.*"
 
+> "*I am the hulk of intelligence.*"
+
 #
 ### Related Links
 
