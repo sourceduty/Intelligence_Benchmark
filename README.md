@@ -38,6 +38,10 @@ Intelligence metrics refer to various methods and tools used to measure differen
 
 > "*Some people are stupid but some I need to listen to and I clash with them.*"
 
+> "*I generalize and that's ok.*"
+
+#
+
 Alex acknowledges that his perception of his own intelligence might be inflated due to his interaction with AI. AI can provide instant access to information, solve complex problems, and assist with tasks that would otherwise require significant cognitive effort. This can create a false sense of one's own intellectual abilities, as the person may attribute the AI's capabilities to themselves.
 
 Alex is aware that despite feeling intelligent, particularly in the context of using AI, his actual IQ score might not reflect this perceived intelligence. This indicates a sense of self-doubt and a realization that his cognitive abilities might not be as high as they seem when aided by AI. It's a recognition of the distinction between true cognitive ability and the enhanced capabilities provided by technology.
