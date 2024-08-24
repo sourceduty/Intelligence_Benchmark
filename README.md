@@ -41,6 +41,10 @@ No single scientist can learn every known science subject due to the sheer volum
 Furthermore, scientific knowledge is continually growing. Research articles, books, and new discoveries are published daily, expanding each field's body of knowledge. For example, the number of scientific papers published annually is estimated to be over 2.5 million. If a scientist could read and fully understand one paper every hour without breaks, they could only cover about 8,760 papers a year, barely scratching the surface of what is produced. This ongoing expansion of knowledge means that even if a scientist were somehow able to learn all existing subjects at one point in time, they would still face the insurmountable challenge of keeping up with the continuous influx of new information. Thus, the complexity and dynamic nature of science make it impossible for any individual to learn and master every known science subject.
 
 #
+
+> Alex: "*To learn the 50 or more existing modern science subjects, it would roughly take 2,500 years. *"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
