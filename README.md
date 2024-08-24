@@ -42,7 +42,7 @@ Furthermore, scientific knowledge is continually growing. Research articles, boo
 
 #
 
-> Alex: "*To learn the 50 or more existing modern science subjects, it would roughly take 2,500 years. *"
+> Alex: "*To learn the 50 or more existing modern science subjects, it would roughly take 2,500 years.*"
 
 #
 ### Related Links
