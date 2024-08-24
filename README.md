@@ -60,6 +60,8 @@ Naivety security is about implementing protective measures to safeguard individu
 
 > Alex: "*To learn the 50 or more existing modern science subjects, it would roughly take 2,500 years.*"
 
+> "*I'm not quitting my job until I die.*"
+
 #
 ### Related Links
 
