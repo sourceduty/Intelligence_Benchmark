@@ -49,6 +49,10 @@ Furthermore, AI lacks consciousness, intuition, and the ability to innovate like
 
 #
 
+![Teaching Doctors](https://github.com/user-attachments/assets/c247c6b6-43fc-4301-a4ed-986bdc8ba0d7)
+
+#
+
 > Alex: "*To learn the 50 or more existing modern science subjects, it would roughly take 2,500 years.*"
 
 #
