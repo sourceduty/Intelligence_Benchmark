@@ -85,28 +85,28 @@ Lited below are companies that are still operational but have faced significant 
 1. Meta (formerly Facebook) - Criticized for handling user data and privacy concerns.
 2. Twitter (now X) - Controversies over content moderation and leadership changes.
 3. Boeing - Safety issues and production problems with the 737 Max.
-4. Wells Fargo - Scandals involving fake accounts and unethical practices.
-5. Juul Labs - Legal and regulatory issues related to marketing to minors.
-6. General Electric (GE) - Financial struggles and poor strategic decisions.
-7. Uber - Management controversies, regulatory battles, and profitability challenges.
-8. WeWork - Overvaluation, leadership issues, and a failed IPO.
-9. McDonald's - Criticism over labor practices and health concerns.
-10. Volkswagen - Emissions scandal ("Dieselgate") and reputation damage.
-11. Monsanto (acquired by Bayer) - Public backlash over environmental and health concerns.
-12. BP (British Petroleum) - Environmental disasters, most notably the Deepwater Horizon oil spill.
-13. Equifax - Data breach compromising the personal information of millions.
-14. Johnson & Johnson - Legal issues related to talc products and opioid crisis.
-15. TikTok - Regulatory scrutiny and concerns over data security and privacy.
-16. Facebook - Misinformation and its role in spreading fake news.
-17. Amazon - Criticized for labor practices, environmental impact, and monopolistic behavior.
-18. Robinhood - Controversial trading restrictions during the GameStop stock surge.
-19. AT&T - Criticism over customer service and strategic missteps in acquisitions.
-20. Wells Fargo - Ongoing regulatory issues and reputational damage.
-21. HSBC - Involvement in money laundering scandals and regulatory fines.
-22. PG&E - Legal issues related to California wildfires and safety practices.
-23. Ryanair - Criticized for customer service, labor disputes, and handling of the COVID-19 pandemic.
-24. KPMG - Involved in multiple auditing scandals and regulatory investigations.
-25. Credit Suisse - Financial losses due to involvement in various scandals and mismanagement.
+4. Juul Labs - Legal and regulatory issues related to marketing to minors.
+5. General Electric (GE) - Financial struggles and poor strategic decisions.
+6. Uber - Management controversies, regulatory battles, and profitability challenges.
+7. WeWork - Overvaluation, leadership issues, and a failed IPO.
+8. McDonald's - Criticism over labor practices and health concerns.
+9. Volkswagen - Emissions scandal ("Dieselgate") and reputation damage.
+10. Monsanto (acquired by Bayer) - Public backlash over environmental and health concerns.
+11. BP (British Petroleum) - Environmental disasters, most notably the Deepwater Horizon oil spill.
+12. Equifax - Data breach compromising the personal information of millions.
+13. Johnson & Johnson - Legal issues related to talc products and opioid crisis.
+14. TikTok - Regulatory scrutiny and concerns over data security and privacy.
+15. Amazon - Criticized for labor practices, environmental impact, and monopolistic behavior.
+16. Robinhood - Controversial trading restrictions during the GameStop stock surge.
+17. AT&T - Criticism over customer service and strategic missteps in acquisitions.
+18. HSBC - Involvement in money laundering scandals and regulatory fines.
+19. PG&E - Legal issues related to California wildfires and safety practices.
+20. Ryanair - Criticized for customer service, labor disputes, and handling of the COVID-19 pandemic.
+21. KPMG - Involved in multiple auditing scandals and regulatory investigations.
+22. Credit Suisse - Financial losses due to involvement in various scandals and mismanagement.
+23. Tesla - Controversies over autopilot safety, labor practices, and CEO behavior.
+24. Wells Fargo - Scandals involving fake accounts and unethical practices.
+25. Apple - Criticized for labor conditions in its supply chain and antitrust concerns.
 ```
 
 #
