@@ -72,6 +72,38 @@ Despite their size, some of these corporations demonstrate significant inefficie
 
 Conversely, other top corporations exhibit high levels of intelligence, characterized by strategic foresight, innovation, and effective management. These companies invest heavily in research and development, continuously seeking ways to improve products, streamline operations, and enter new markets. They leverage data analytics to inform decision-making, predict trends, and personalize customer experiences. Such corporations often maintain flatter organizational structures that facilitate quicker decision-making and foster a culture of innovation. Their ability to intelligently navigate the complexities of a globalized economy, manage risks, and capitalize on emerging opportunities sets them apart, proving that while scale poses challenges, it also provides the resources to drive smart, sustainable growth.
 
+<br>
+
+#### 25 Active and Unintelligent Corporations
+
+```
+1. Meta (formerly Facebook) - Criticized for handling user data and privacy concerns.
+2. Twitter (now X) - Controversies over content moderation and leadership changes.
+3. Boeing - Safety issues and production problems with the 737 Max.
+4. Wells Fargo - Scandals involving fake accounts and unethical practices.
+5. Juul Labs - Legal and regulatory issues related to marketing to minors.
+6. General Electric (GE) - Financial struggles and poor strategic decisions.
+7. Uber - Management controversies, regulatory battles, and profitability challenges.
+8. WeWork - Overvaluation, leadership issues, and a failed IPO.
+9. McDonald's - Criticism over labor practices and health concerns.
+10. Volkswagen - Emissions scandal ("Dieselgate") and reputation damage.
+11. Monsanto (acquired by Bayer) - Public backlash over environmental and health concerns.
+12. BP (British Petroleum) - Environmental disasters, most notably the Deepwater Horizon oil spill.
+13. Equifax - Data breach compromising the personal information of millions.
+14. Johnson & Johnson - Legal issues related to talc products and opioid crisis.
+15. TikTok - Regulatory scrutiny and concerns over data security and privacy.
+16. Facebook - Misinformation and its role in spreading fake news.
+17. Amazon - Criticized for labor practices, environmental impact, and monopolistic behavior.
+18. Robinhood - Controversial trading restrictions during the GameStop stock surge.
+19. AT&T - Criticism over customer service and strategic missteps in acquisitions.
+20. Wells Fargo - Ongoing regulatory issues and reputational damage.
+21. HSBC - Involvement in money laundering scandals and regulatory fines.
+22. PG&E - Legal issues related to California wildfires and safety practices.
+23. Ryanair - Criticized for customer service, labor disputes, and handling of the COVID-19 pandemic.
+24. KPMG - Involved in multiple auditing scandals and regulatory investigations.
+25. Credit Suisse - Financial losses due to involvement in various scandals and mismanagement.
+```
+
 #
 
 > Alex: "*To learn the 50 or more existing modern science subjects, it would roughly take 2,500 years.*"
