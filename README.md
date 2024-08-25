@@ -113,6 +113,42 @@ Lited below are companies that are still operational but have faced significant 
 
 Corporate stupidity, as demonstrated by the actions of these corporations, often manifests in a range of poor decisions, from ignoring regulatory requirements and ethical standards to mismanaging data and mishandling customer relationships. Companies like Boeing, Juul Labs, and Volkswagen have faced severe backlash due to neglecting safety standards, which led to catastrophic outcomes such as product recalls, health risks, and legal penalties. Financial institutions like Wells Fargo and Credit Suisse have shown how unethical practices and poor risk management can erode trust and lead to costly scandals. Tech giants such as Meta, Twitter, and TikTok have grappled with issues around data privacy and misinformation, reflecting a failure to anticipate the societal impact of their platforms. Even successful companies like Amazon and Tesla have faced criticism over labor practices and executive behavior, which highlights how corporate success does not exempt companies from scrutiny or ethical obligations. The recurring theme across these examples is a short-sighted focus on profits or growth at the expense of safety, ethics, and long-term sustainability, revealing a type of corporate stupidity that ultimately harms their reputation, finances, and consumer trust.
 
+<br>
+
+Measuring the intelligence or IQ of corporations is not straightforward, as it involves qualitative judgments about strategic decision-making, adaptability, ethical considerations, and operational efficiency. However, as a conceptual exercise, the table below uses a hypothetical rating system (1-10 scale) to reflect these companies' perceived intelligence, where 1 indicates poor decision-making and high levels of corporate stupidity, and 10 indicates high strategic intelligence and ethical management.
+
+```
+| Corporation           | General Intelligence (IQ) Rating |
+|-----------------------|----------------------------------|
+| Meta                  | 5                                |
+| Twitter (now X)       | 4                                |
+| Boeing                | 6                                |
+| Juul Labs             | 3                                |
+| General Electric (GE) | 4                                |
+| Uber                  | 5                                |
+| WeWork                | 2                                |
+| McDonald's            | 6                                |
+| Volkswagen            | 4                                |
+| Monsanto (Bayer)      | 4                                |
+| BP                    | 5                                |
+| Equifax               | 3                                |
+| Johnson & Johnson     | 6                                |
+| TikTok                | 5                                |
+| Amazon                | 7                                |
+| Robinhood             | 4                                |
+| AT&T                  | 5                                |
+| HSBC                  | 4                                |
+| PG&E                  | 3                                |
+| Ryanair               | 5                                |
+| KPMG                  | 5                                |
+| Credit Suisse         | 3                                |
+| Tesla                 | 6                                |
+| Wells Fargo           | 3                                |
+| Apple                 | 8                                |
+```
+
+These ratings are based on various factors such as the company’s ability to adapt to market changes, handle ethical concerns, maintain customer trust, innovate, and manage crises effectively. They reflect a general assessment rather than precise metrics.
+
 #
 
 > Alex: "*To learn the 50 or more existing modern science subjects, it would roughly take 2,500 years.*"
