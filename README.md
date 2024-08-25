@@ -72,6 +72,11 @@ Despite their size, some of these corporations demonstrate significant inefficie
 
 Conversely, other top corporations exhibit high levels of intelligence, characterized by strategic foresight, innovation, and effective management. These companies invest heavily in research and development, continuously seeking ways to improve products, streamline operations, and enter new markets. They leverage data analytics to inform decision-making, predict trends, and personalize customer experiences. Such corporations often maintain flatter organizational structures that facilitate quicker decision-making and foster a culture of innovation. Their ability to intelligently navigate the complexities of a globalized economy, manage risks, and capitalize on emerging opportunities sets them apart, proving that while scale poses challenges, it also provides the resources to drive smart, sustainable growth.
 
+#
+### Active and Unintelligent Corporations
+
+Lited below are companies that are still operational but have faced significant challenges or criticism that have impacted their reputations, operations, or financial performance. The issues range from legal and ethical concerns to strategic missteps and market challenges.
+
 <br>
 
 #### 25 Active and Unintelligent Corporations
