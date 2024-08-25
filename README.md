@@ -109,6 +109,8 @@ Lited below are companies that are still operational but have faced significant 
 25. Apple - Criticized for labor conditions in its supply chain and antitrust concerns.
 ```
 
+<br>
+
 Corporate stupidity, as demonstrated by the actions of these corporations, often manifests in a range of poor decisions, from ignoring regulatory requirements and ethical standards to mismanaging data and mishandling customer relationships. Companies like Boeing, Juul Labs, and Volkswagen have faced severe backlash due to neglecting safety standards, which led to catastrophic outcomes such as product recalls, health risks, and legal penalties. Financial institutions like Wells Fargo and Credit Suisse have shown how unethical practices and poor risk management can erode trust and lead to costly scandals. Tech giants such as Meta, Twitter, and TikTok have grappled with issues around data privacy and misinformation, reflecting a failure to anticipate the societal impact of their platforms. Even successful companies like Amazon and Tesla have faced criticism over labor practices and executive behavior, which highlights how corporate success does not exempt companies from scrutiny or ethical obligations. The recurring theme across these examples is a short-sighted focus on profits or growth at the expense of safety, ethics, and long-term sustainability, revealing a type of corporate stupidity that ultimately harms their reputation, finances, and consumer trust.
 
 #
